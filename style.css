@@ -1,0 +1,281 @@
+body{
+    background-color:#05233bad;
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center ;
+}
+
+h1{
+    color: slategrey;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 2.8em;
+}
+
+b{
+    font-size: 2.2em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, Impact,  'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    color: whitesmoke;
+}
+
+#headMag{
+    color:rgba(134, 35, 101, 0.836);
+    font-size: 1.7em;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px ;
+}
+
+.image{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 50px 20%;
+}
+
+#image1{
+    padding-top: 80px;
+    border-radius: 5px;
+}
+#image2{
+    border-radius: 30px;
+}#image3{
+    padding-top: 80px;
+    border-radius: 5px;
+}
+
+.contact{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 0px 30%;
+}
+
+#about:hover{
+    transform: scale(1.08);
+    transition: 0.2s;
+}
+#gmail:hover{
+    transform: scale(1.08);
+    transition: 0.2s;
+}
+#git:hover{
+    transform: scale(1.08);
+    transition: 0.2s;
+}
+#fb:hover{
+    transform: scale(1.08);
+    transition: 0.2s;
+}#twit:hover{
+    transform: scale(1.08);
+    transition: 0.2s;
+}
+
+article{
+    font-size: 2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    font-weight: normal;
+    color: rgba(25, 201, 127, 0.815);
+    padding: 10px 10px 0px 10px;
+}
+
+#in_carousel{
+    background-attachment: fixed;
+    text-align: center;
+    border-color: beige;
+}
+h1+h2{
+    text-align: center;
+    color:sienna;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-weight: lighter;
+    padding: 10px;
+    font-size: 2.5em;
+}
+
+h2:hover{
+    color: rgb(136, 46, 4);
+    opacity: 0.7;
+}
+
+.bodybuilding{
+    border-radius: 10px;
+    box-shadow: 2px 3px 4px 2px rgba(0, 0, 0, 0.5);
+}
+
+.foot{
+    border-radius: 10px;
+    box-shadow: 2px 3px 4px 2px rgba(3, 48, 66, 0.795);
+}
+
+#block1{
+    padding: 10px 20px 10px 30px;
+}
+#block1:hover{
+    opacity: 0.7;
+    transform: scale(1.05);
+    transition: 0.5s ease-in-out;
+}
+
+#block2{
+    padding: 10px 20px 10px 30px;
+}
+#block2:hover{
+    opacity: 0.7;
+    transform: scale(1.05);
+    transition: 0.5s ease-in-out;
+}
+
+#block3{
+    padding: 10px 20px 10px 30px;
+}
+#block3:hover{
+    opacity: 0.7;
+    transform: scale(1.05);
+    transition: 0.5s ease-in-out;
+}
+
+#block4{
+    padding: 10px 20px 10px 30px;
+}
+#block4:hover{
+    opacity: 0.7;
+    transform: scale(1.05);
+    transition: 0.5s ease-in-out;
+}
+
+#block5{
+    padding: 10px 20px 10px 30px;
+}
+#block5:hover{
+    opacity: 0.7;
+    transform: scale(1.05);
+    transition: 0.5s ease-in-out;
+}
+
+#block6{
+    padding: 10px 20px 10px 30px;
+}
+#block6:hover{
+    opacity: 0.7;
+    transform: scale(1.05);
+    transition: 0.5s ease-in-out;
+}
+
+#block7{
+    padding: 10px 20px 10px 30px;
+}
+#block7:hover{
+    opacity: 0.7;
+    transform: scale(1.05);
+    transition: 0.5s ease-in-out;
+}
+
+#block8{
+    padding: 10px 20px 10px 30px;
+}
+#block8:hover{
+    opacity: 0.7;
+    transform: scale(1.05);
+    transition: 0.5s ease-in-out;
+}
+
+#block9{
+    padding: 10px 20px 10px 30px;
+}
+#block9:hover{
+    opacity: 0.7;
+    transform: scale(1.1);
+    transition: 0.6s ease-in-out;
+}
+
+#block10{
+    padding: 10px 20px 10px 30px;
+}
+#block10:hover{
+    opacity: 0.7;
+    transform: scale(1.1);
+    transition: 0.6s ease-in-out;
+}
+
+#block11{
+    padding: 10px 100px 10px 30px;
+    width:300px;
+    height: 168px;
+}
+#block11:hover{
+    opacity: 0.7;
+    transform: scale(1.1);
+    transition: 0.6s ease-in-out;
+}
+
+#block100{
+    padding: 10px 350px 10px 100px;
+    width:300px;
+    height: 168px;
+}
+#block100:hover{
+    opacity: 0.7;
+    transform: scale(1.1);
+    transition: 0.6s ease-in-out;
+}
+
+#block101{
+    padding: 10px 100px 10px 30px;
+    width:300px;
+    height: 168px;
+}
+#block101:hover{
+    opacity: 0.7;
+    transform: scale(1.1);
+    transition: 0.6s ease-in-out;
+}
+
+#block12{
+    padding: 10px 100px 10px 30px;
+}
+#block12:hover{
+    opacity: 0.7;
+    transform: scale(1.1);
+    transition: 0.6s ease-in-out;
+}
+
+#block14{
+    padding: 10px 20px 10px 30px;
+}
+#block14:hover{
+    opacity: 0.7;
+    transform: scale(1.1);
+    transition: 0.6s ease-in-out;
+}
+
+#block13{
+    padding: 10px 20px 10px 30px;
+}
+#block13:hover{
+    opacity: 0.7;
+    transform: scale(1.1);
+    transition: 0.6s ease-in-out;
+}
+
+#block15{
+    padding: 10px 20px 10px 30px;
+}
+#block15:hover{
+    opacity: 0.7;
+    transform: scale(1.1);
+    transition: 0.6s ease-in-out;
+}
+
+#block16{
+    padding: 0px 20px 10px 160px;
+}
+#block16:hover{
+    opacity: 0.7;
+    transform: scale(1.1);
+    transition: 0.6s ease-in-out;
+}
